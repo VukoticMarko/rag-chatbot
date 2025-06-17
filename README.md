@@ -123,5 +123,3 @@ The chatbot provides structured responses with (template can be changed):
 ```
 ## License
 MIT License - Free for academic and commercial use with attribution
-
-Pro Tip: Add your research papers, technical documentation, or course materials to the data/ folder to create a personalized AI assistant!
