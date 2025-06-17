@@ -1,0 +1,31 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Logs and local data
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Jupyter and VS Code
+.ipynb_checkpoints/
+.vscode/
+
+# Python environments
+env/
+venv/
+.venv/
+
+# Mac & Linux system files
+.DS_Store
+Thumbs.db
+
+# Backup files
+requirements.txt~
+
+# Application-specific folders
+vector_db/
+models/
