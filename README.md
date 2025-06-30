@@ -34,12 +34,12 @@ source .venv/bin/activate  # Linux/MacOS
 .\.venv\Scripts\activate  # Windows
 ```
 
-4. Install dependencies:
+3. Install dependencies:
 ``` bash
 pip install -r requirements.txt
 ```
 
-6. Download Mistral-7B model (4-bit quantized):
+4. Download Mistral-7B model (4-bit quantized):
 ``` bash
 mkdir -p models
 wget -P models https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF/resolve/main/mistral-7b-instruct-v0.1.Q4_K_M.gguf
